@@ -8,3 +8,5 @@ There are some ideas for this app,
 
 Run app:
 uvicorn app.main:app --reload
+
+http://127.0.0.1:8000/docs
